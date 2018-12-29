@@ -1,3 +1,39 @@
 {
-"Name":"蒲毅",
+  "squadName" : "THE FAST MEN",
+  "homeTown" : "earth",
+  "formed" : 2018,
+  "secretBase" : "Speed",
+  "active" : true,
+  "members" : [
+    {
+      "name" : "THE 1st Fast Man",
+      "age" : 32,
+      "secretIdentity" : "Usain Bolt",
+      "Race record" : [
+        "2008 Olympic men 100 meters, 200 meters",
+        "2012 Olympic men 100 meters, 200 meters",
+        "2016 Olympic men 100 meters, 200 meters"
+      ]
+    },
+    {
+      "name" : "Bolt's successor",
+      "age" : 29,
+      "secretIdentity" : "JOHN BLAKE",
+      "Race record" : [
+        "2011 World athletics championships men's 100m champion",
+        "2011 Iaaf diamond league men's 200m champion",
+        "2012 Iaaf diamond league men's 100m champion"
+      ]
+    },
+    {
+      "name" : "Former world record holder",
+      "age" : 36,
+      "secretIdentity" : "Asafa Powell",
+      "powers" : [
+        "2015Champion of men's 100m in the international invitational track and field",
+        "2011 Jamaica track and field championships men's 100m champion",
+        "2005 Athens broke the man's 100-meter world record at 9.77", 
+      ]
+    }
+  ]
 }
